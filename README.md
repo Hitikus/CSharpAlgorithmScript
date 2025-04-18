@@ -19,12 +19,7 @@ A curated collection of essential algorithms implemented in C#, covering sorting
 
 ### 🔁 Recursion Examples
 - Factorial  
-- Fibonacci (Recursive and Iterative)  
-
-### ➗ Math Utilities
-- Prime Check  
-- GCD/LCM  
-- Power Functions  
+- Fibonacci (Recursive and Iterative)   
 
 ### ✂️ String Manipulations
 - Palindrome Check  
@@ -35,10 +30,3 @@ A curated collection of essential algorithms implemented in C#, covering sorting
 - Stack (Array-based / List-based)  
 - Queue (Array-based / List-based)  
 
----
-
-## 🚀 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/csharp-algorithms.git
